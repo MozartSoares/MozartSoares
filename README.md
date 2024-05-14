@@ -9,5 +9,5 @@
 3. **GitHub Profile Summary Cards**:
    - [![GitHub Profile Summary Cards](https://github-readme-stats.vercel.app/api/pin/?username=MozartSoares&repo=MozartSoares)](https://github.com/MozartSoares/MozartSoares)
 
-4. **GitHub Activity Graph & Chart**:
-   - ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MozartSoares)
+
+  (https://activity-graph.herokuapp.com/graph?username=MozartSoares)
